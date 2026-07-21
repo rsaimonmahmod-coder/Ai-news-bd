@@ -1,0 +1,6 @@
+{
+  "name": "AI NewsHub BD",
+  "description": "An autonomous AI-based news aggregator for Bangladesh that identifies viral news and automatically generates highly stylized carousel graphics for Instagram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
